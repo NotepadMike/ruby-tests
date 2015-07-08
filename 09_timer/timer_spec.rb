@@ -45,7 +45,7 @@ describe "Timer" do
   # Uncomment these specs if you want to test-drive that
   # method, then call that method from inside of time_string.
   #
-  # describe 'padded' do
+  #describe 'padded' do
   #   it 'pads zero' do
   #     @timer.padded(0).should == '00'
   #   end
